@@ -1,4 +1,4 @@
-# datatable-server-side two branches (master branch for whaterline, mongo branch mongo)
+# datatable-server-side two branches (master branch for whaterline, mongoose branch mongoose)
 # clone it add an import to your project and use like this:
 # dataTableServerSide(req.body, YOURMODEL)
 #    .then((response) =>{
